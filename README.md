@@ -1,4 +1,3 @@
-teuxdeux-alfred-workflow
-========================
+# TeuxDeux workflow for Alfred
 
-TeuxDeux workflow for Alfred
+Coming soon.
